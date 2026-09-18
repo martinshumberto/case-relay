@@ -1,0 +1,8 @@
+.git/
+.case/
+.omc/
+**/node_modules/
+**/__pycache__/
+**/*.pyc
+web/dist/
+.env

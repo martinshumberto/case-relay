@@ -70,11 +70,11 @@ Preencha o `DECISIONS.md`: achados, correções (com a causa raiz de cada sintom
 
 ## Checklist de entrega
 
-- [ ] `docker compose up --build` sobe tudo sem erro
-- [ ] Feature A (cancelar) implementada e isolada por tenant
-- [ ] Feature B (retry idempotente) implementada e isolada por tenant
-- [ ] Sintomas de `KNOWN_ISSUES.md` diagnosticados e corrigidos estruturalmente
-- [ ] `DECISIONS.md` preenchido
+- [x] `docker compose up --build` sobe tudo sem erro
+- [x] Feature A (cancelar) implementada e isolada por tenant
+- [x] Feature B (retry idempotente) implementada e isolada por tenant
+- [x] Sintomas de `KNOWN_ISSUES.md` diagnosticados e corrigidos estruturalmente
+- [x] `DECISIONS.md` preenchido
 
 ---
 
